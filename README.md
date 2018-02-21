@@ -10,7 +10,7 @@ The goal of the exercise is to show ones ability to profile a simple executable 
 
 # Actual coding task
 
-Once you have a callgrind output, you need to write a program in either C++, Python, or Javascript (NodeJS) to process such an an output and create an Sqlite database with the schema mentioned in the description.
+Once you have a callgrind output, you need to write a program in either C++, Python, or Javascript (NodeJS) to process such an an output and create an Sqlite database with the schema mentioned in the "Exercise description" above.
 
 # Suggestions
 
